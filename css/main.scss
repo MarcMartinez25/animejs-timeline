@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: "Montserrat";
+  overflow: hidden;
+}
+
+section {
+  display: grid;
+  grid-template-columns: repeat(10, auto);
+
+  div {
+    background-color: white;
+    height: 100vh;
+
+    
+  }
+}
+
+h1 {
+  font-size: 5em;
+  position: absolute;
+  top: 40%;
+  left: 12%;
+  opacity: 0;
+  z-index: 2;
+}
