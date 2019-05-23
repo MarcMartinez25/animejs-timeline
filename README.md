@@ -5,4 +5,4 @@ This project is from a [video](https://www.youtube.com/watch?v=WogfLKQHi1A&t=112
 
 ### Here is a demo of website in action:
 
-![website gif](https://gph.is/g/4AyjD3e)
+![website gif](https://media.giphy.com/media/6G8lEA1xrsyHd92CN7/giphy.gif)
